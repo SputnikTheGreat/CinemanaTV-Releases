@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "com.sputnik.cinemanatv2",
-  "versionCode": 4,
-  "versionName": "1.0-beta.3",
+  "versionCode": 5,
+  "versionName": "1.0-beta.4",
   "minSdk": 26,
-  "apkUrl": "https://github.com/SputnikTheGreat/CinemanaTV-Releases/releases/download/v1.0-beta.3/CinemanaTV.apk",
-  "sha256": "436da8a8e1efe154be1fbb680d40ce5b0f3eb1c9bde6f9a5c3840544baf277f1",
-  "size": 34681355,
-  "notes": "Fixed the old backdrop flashing before the TMDB image on the details screen."
+  "apkUrl": "https://github.com/SputnikTheGreat/CinemanaTV-Releases/releases/download/v1.0-beta.4/CinemanaTV.apk",
+  "sha256": "072f445c41c02d92e2a91d3952d84894524494c93e234fe59a297f094bb0a735",
+  "size": 34681571,
+  "notes": "Fixed sidebar Up/Right navigation.\nAligned the Arabic hero text and metadata.\nFixed cropped cards when zooming in Search and More Like This."
 }
