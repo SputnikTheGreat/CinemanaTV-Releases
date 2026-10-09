@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.sputnik.cinemanatv2",
+  "versionCode": 3,
+  "versionName": "1.0-beta.2",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/SputnikTheGreat/CinemanaTV-Releases/releases/download/v1.0-beta.2/CinemanaTV.apk",
+  "sha256": "a76e1c4020e5e6412326b056f01e395e229ee5889dfc573a5345c300a8417af7",
+  "size": 34680999,
+  "notes": "Beta 2. A small release to test in-app updates."
+}
